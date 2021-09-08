@@ -1,0 +1,21 @@
+type: code
+custom_name: Make it work!
+files:
+- name: main.py
+  visible: true
+  text: |-
+    first = input()
+
+    if first > second:
+        print("The first one wins")
+    elif second > "first":
+        print("The second one wins")
+    else:
+        print(Draw)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6079#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 07 Sep 2021 23:25:20 UTC
+record: -1
